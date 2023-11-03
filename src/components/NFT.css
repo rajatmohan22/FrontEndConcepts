@@ -1,0 +1,30 @@
+.card {
+    width: 18rem;
+    border: 1px solid #ccc;
+    margin: 10px;
+    transition: transform 0.2s;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+  }
+  
+  .card img {
+    max-width: 100%;
+  }
+  
+  .card-body {
+    padding: 1rem;
+  }
+  
+  .card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin: 0;
+  }
+  
+  .card-text {
+    font-size: 0.875rem;
+    margin: 0;
+  }
+  
